@@ -75,11 +75,11 @@
 ## 💻 Projects
 
 ### 🧑‍💻 Individual
-- TableForYou (2024. 02. ~ 2024. 05.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
+- TableForYou - BE (2024. 02. ~ 2024. 05.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
 - Your-News (2024. 05. ~ 2024. 06.) [⤴](https://github.com/DaeYoung0726/your-news)
 
 ### 👥 Team
-- Gibble (2024. 07.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
+- Gibble - BE (2024. 07.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
 
 ## 📫 Contact
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daeyoung948@gmail.com)
