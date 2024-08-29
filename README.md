@@ -77,9 +77,9 @@
 
 ### 🧑‍💻 Individual
 - TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
-    - 식사 예약 관리 서비스
+    - 식당 예약 관리 서비스
 - Your-News (2024. 05. 19. ~ 2024. 06. 12.) [⤴](https://github.com/DaeYoung0726/your-news)
-    - 학교 및 학과 공지 알림 서비스
+    - 대학교 공지 알림 서비스
 ### 👥 Team
 - Gibble - BE (2024. 07. 14. ~ 2024. 07. 31) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
     - 헌혈증 기부 플랫폼
