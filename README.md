@@ -70,17 +70,19 @@
 
 ## 🏆 Activity
 
-- 영남대학교 멋쟁이사자처럼 12기 (2024. 03. ~ )
+- 영남대학교 멋쟁이사자처럼 12기 - BE (2024. 03. 16. ~ )
+- 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출
 
 ## 💻 Projects
 
 ### 🧑‍💻 Individual
-- TableForYou - BE (2024. 02. ~ 2024. 05.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
-- Your-News (2024. 05. ~ 2024. 06.) [⤴](https://github.com/DaeYoung0726/your-news)
-
+- TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
+    - 식사 예약 관리 서비스
+- Your-News (2024. 05. 19. ~ 2024. 06. 12.) [⤴](https://github.com/DaeYoung0726/your-news)
+    - 학교 및 학과 공지 알림 서비스
 ### 👥 Team
-- Gibble - BE (2024. 07.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
-
+- Gibble - BE (2024. 07. 14. ~ 2024. 07. 31) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
+    - 헌혈증 기부 플랫폼
 ## 📫 Contact
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daeyoung948@gmail.com)
 - Blog: [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://velog.io/@pdy000726/posts)
