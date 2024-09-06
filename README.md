@@ -78,10 +78,10 @@
 ### 🧑‍💻 Individual
 - TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
     - 식당 예약 관리 서비스
-- Your-News (2024. 05. 19. ~ 2024. 06. 12.) [⤴](https://github.com/DaeYoung0726/your-news)
+- Your-News (2024. 05. 19. ~ 2024. 06. 12. ~ ongoing) [⤴](https://github.com/DaeYoung0726/your-news)
     - 대학교 공지 알림 서비스
 ### 👥 Team
-- Gibble - BE (2024. 07. 14. ~ 2024. 07. 31) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
+- Gibble - BE (2024. 07. 14. ~ 2024. 07. 31.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
     - 헌혈증 기부 플랫폼
 ## 📫 Contact
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daeyoung948@gmail.com)
