@@ -70,7 +70,7 @@
 
 ## 🏆 Activity
 
-- 영남대학교 멋쟁이사자처럼 12기 - BE (2024. 03. 16. ~ )
+- 영남대학교 멋쟁이사자처럼 12기 - BE (2024. 03. 16. ~ 2024. 12. 31.)
 - 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출
 
 ## 💻 Projects
@@ -81,13 +81,13 @@
 - Your-News (2024. 04. 23. ~ 2024. 06. 12. ~ ongoing) [⤴](https://github.com/DaeYoung0726/your-news)
     - 대학교 공지 알림 서비스
 ### 👥 Team
-- Gibble - BE (2024. 07. 5. ~ 2024. 07. 31.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
+- Gibble - BE (2024. 07. 05. ~ 2024. 07. 31.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
     - 헌혈증 기부 플랫폼
 - YU-Quiz - BE (2024. 07. 15. ~ 2024. 12. 10.) [⤴](https://github.com/YU-Quiz/was)
     - 퀴즈 게시판
  
 ## 📚 Libraries
-- API-Link-Checker (2024. 12. 18. ~ ongoing) [⤴](https://github.com/DaeYoung0726/api-link-checker)
+- API-Link-Checker (2024. 12. 10. ~ 2025. 01. 05.) [⤴](https://github.com/DaeYoung0726/api-link-checker)
     - REST API 연결 상태 추적 및 검증 라이브러리
   
 ## 📫 Contact
