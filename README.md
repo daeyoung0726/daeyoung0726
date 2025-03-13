@@ -39,6 +39,9 @@
         <a href="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white">
           <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
         </a>
+        <a href="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+        </a>
         <a href="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
           <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
         </a>
@@ -85,6 +88,8 @@
     - 헌혈증 기부 플랫폼
 - YU-Quiz - BE (2024. 07. 15. ~ 2024. 12. 10.) [⤴](https://github.com/YU-Quiz/was)
     - 퀴즈 게시판
+- Muzusi - BE (2024. 11. 21. ~ 2024. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
+    - 모의 주식 투자 프로그램
  
 ## 📚 Libraries
 - API-Link-Checker (2024. 12. 10. ~ 2025. 01. 05.) [⤴](https://github.com/DaeYoung0726/api-link-checker)
