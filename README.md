@@ -89,7 +89,7 @@
     - 헌혈증 기부 플랫폼
 - YU-Quiz - BE (2024. 07. 15. ~ 2024. 12. 10.) [⤴](https://github.com/YU-Quiz/was)
     - 퀴즈 게시판
-- Muzusi - BE (2024. 11. 21. ~ 2024. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
+- Muzusi - BE (2024. 11. 21. ~ 2025. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
     - 모의 주식 투자 프로그램
  
 ## 📚 Libraries
