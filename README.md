@@ -100,8 +100,3 @@
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daeyoung948@gmail.com)
 - Blog: [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://velog.io/@pdy000726/posts)
 
-----
-
-![Daeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeYoung0726&show_icons=true&theme=radical&custom_title=Daeyoung%20Park's%20GitHub%20Stats)
-
-
