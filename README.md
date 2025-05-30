@@ -91,7 +91,7 @@
     - 퀴즈 게시판
 - Muzusi - BE (2024. 11. 21. ~ 2025. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
     - 모의 주식 투자 프로그램
-- Yeofifa - BE (2025. 03. 15. ~ ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
+- Yeogiga - BE (2025. 03. 15. ~ ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
     - 여행 기록 관리 플랫폼
  
 ## 📚 Libraries
