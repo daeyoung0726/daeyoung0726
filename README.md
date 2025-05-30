@@ -80,7 +80,7 @@
 ## 💻 Projects
 
 ### 🧑‍💻 Individual
-- Your-News (2024. 04. 23. ~ 2024. 06. 12. ~ ongoing) [⤴](https://github.com/DaeYoung0726/your-news)
+- Your-News (2024. 04. 23. ~ 2024. 07. 21. ~ ongoing) [⤴](https://github.com/DaeYoung0726/your-news)
     - 대학교 공지 알림 서비스
 ### 👥 Team
 - TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
@@ -91,6 +91,8 @@
     - 퀴즈 게시판
 - Muzusi - BE (2024. 11. 21. ~ 2025. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
     - 모의 주식 투자 프로그램
+- Yeofifa - BE (2025. 03. 15. ~ ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
+    - 여행 기록 관리 플랫폼
  
 ## 📚 Libraries
 - API-Link-Checker (2024. 12. 10. ~ 2025. 01. 05.) [⤴](https://github.com/DaeYoung0726/api-link-checker)
