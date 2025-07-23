@@ -80,19 +80,18 @@
 ## 💻 Projects
 
 ### 🧑‍💻 Individual
-- Your-News (2024. 04. 23. ~ 2024. 07. 21. ~ ongoing) [⤴](https://github.com/DaeYoung0726/your-news)
+- Your-News (V1 / Web) (2024. 04. 23. ~ 2024. 07. 21.) [⤴](https://github.com/your-news-project/your-news-v1)
     - 대학교 공지 알림 서비스
+- Your-News (V2 / App) (2025. 04. 03. ~ 2025. 07. 17.) [⤴](https://github.com/your-news-project/your-news-v2)
+    - 대학교 공지 알림 서비스 리팩토링 버전 (앱)
 ### 👥 Team
 - TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
     - 식당 예약 관리 서비스
-- Gibble - BE (2024. 07. 05. ~ 2024. 07. 31.) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
-    - 헌혈증 기부 플랫폼
-- YU-Quiz - BE (2024. 07. 15. ~ 2024. 12. 10.) [⤴](https://github.com/YU-Quiz/was)
-    - 퀴즈 게시판
-- Muzusi - BE (2024. 11. 21. ~ 2025. 02. 28.) [⤴](https://github.com/Team-Digimon/muzusi-was)
-    - 모의 주식 투자 프로그램
 - Yeogiga - BE (2025. 03. 15. ~ ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
     - 여행 기록 관리 플랫폼
+- 기타 프로젝트
+    - Gibble - BE (헌혈증 기부 플랫폼), YU-Quiz - BE (퀴즈 게시판), Muzusi - BE (모의 주식 투자 프로그램)
+
  
 ## 📚 Libraries
 - API-Link-Checker (2024. 12. 10. ~ 2025. 01. 05.) [⤴](https://github.com/DaeYoung0726/api-link-checker)
