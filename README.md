@@ -1,81 +1,31 @@
-## Hi there, I'm Daeyoung Park 👋 
+## Hello, I'm Daeyoung Park
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <strong>Languages</strong>
-      </td>
-      <td align="center" width="140">
-        <strong>Back-End</strong>
-      </td>
-      <td align="center" width="140">
-        <strong>Database</strong>
-      </td>
-      <td align="center" width="140">
-        <strong>Deployment</strong>
-      </td>
-      <td align="center" width="140">
-        <strong>Communication</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <a href="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-          <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-          <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-          <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-        </a>
-        <a href="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white">
-          <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
-        </a>
-        <a href="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-        </a>
-        <a href="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
-          <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-          <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        </a>
-        <a href="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github-actions&logoColor=white">
-          <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-        </a>
-        <a href="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
-          <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
-          <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
-        </a>
-        <a href="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
-          <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+**Language** : 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+
+
+**Back-end** :
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+
+**Database** :
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+
+**Deployment** :
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
 
 
 ## 🏆 Activity
 
+- 영남대학교 멋쟁이사자처럼 13기 대표 (2025. 01. 01. ~ 2025. 12. 31.)
 - 영남대학교 멋쟁이사자처럼 12기 - BE (2024. 03. 16. ~ 2024. 12. 31.)
-- 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출
-- 영남대학교 멋쟁이사자처럼 13기 대표 (2025. 01. 01. ~)
 
 ## 💻 Projects
 
@@ -87,10 +37,8 @@
 ### 👥 Team
 - TableForYou - BE (2024. 02. 14. ~ 2024. 05. 24.) [⤴](https://github.com/DaeYoung0726/tableforyou-backend)
     - 식당 예약 관리 서비스
-- Yeogiga - BE (2025. 03. 15. ~ ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
+- Yeogiga - BE (2025. 03. 15. ~ 2025. 11. ) [⤴](https://github.com/Team-Ilmansa/yeogiga-was)
     - 여행 기록 관리 플랫폼
-- 기타 프로젝트
-    - Gibble - BE (헌혈증 기부 플랫폼), YU-Quiz - BE (퀴즈 게시판), Muzusi - BE (모의 주식 투자 프로그램)
 
  
 ## 📚 Libraries
