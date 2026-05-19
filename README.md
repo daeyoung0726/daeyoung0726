@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
 
+## Career
+
+- 토스페이먼츠 서버 개발자 (2026. 05. 18. ~ ing)
+
 
 ## Activity
 
