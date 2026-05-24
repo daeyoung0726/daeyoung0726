@@ -22,7 +22,7 @@
 
 ## Career
 
-- 토스페이먼츠 서버 개발자 (2026. 05. 18. ~ ing)
+- 토스페이먼츠 Server Developer (2026. 05. 18. ~ ing)
 
 
 ## Activity
