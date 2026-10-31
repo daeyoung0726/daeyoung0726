@@ -1,6 +1,3 @@
-## Hello, I'm Daeyoung Park
-
-
 ## Career
 
 - 토스페이먼츠 Server Developer (2026. 05. 18. ~ ing)
